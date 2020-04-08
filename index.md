@@ -1,1 +1,1 @@
-[Image](full.png)
+![Comics](full.png)
